@@ -1,0 +1,6 @@
+Config = {
+    namescript = "THANG [PREMIUM]",--Tên Script
+    logoscript = "115001282025194",--ID Logo Script
+    tacgia = "ThangBloxFruit"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
